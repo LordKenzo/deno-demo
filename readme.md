@@ -4,7 +4,7 @@ I took some inspirational from Sciuti talk and after reading some posts about De
 
 ## Must have...
 
-You have to install Deno and Denon. See my post on [Dev.to]() to follow my guide about Deno.
+You have to install Deno and Denon. See my post on [Dev.to](https://dev.to/lordkenzo/welcome-to-deno-land-o42) to follow my guide about Deno.
 
 ## Start
 
