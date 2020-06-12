@@ -4,7 +4,8 @@
     "allow": [
         "run",
         "env",
-        "net"
+        "net",
+        "read"
     ],
     "scripts": {
       "start": "server.ts"
